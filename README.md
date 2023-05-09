@@ -1,5 +1,4 @@
-# 게시판 프로젝트(진행중)
-
+# 게시판
 
 
 강의, 스프링의 정석 https://fastcampus.co.kr/dev_academy_nks 의 모방작
